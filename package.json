@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "vercel_express",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "Handrawan",
+  "license": "ISC",
+  "description": ""
+}
